@@ -1,16 +1,12 @@
 # Source Code Strategy Assessment Framework
 
-**What is the output of this assessment?**
+## Assessment Outputs
 
 - A "score" for your source code strategy
 
-- Advice and support on improvement areas (if you want it)
-
-- Very high level description of scores...
-
   - **E** Awareness: you know about source code strategies but do not have one yet
 
-  - **D** - Initial: you take some ad hoc actions to exploit opportunities and
+  - **D** - Initial: you take some ad hoc actions to exploit opportunities or
   limit weaknesses
 
   - **C** - Standard: you have a defined basic strategy and evidence of its
@@ -19,87 +15,105 @@
   - **B** - Advanced: you have an ambitious strategy, evidence of its
   implementation and continuous improvement
 
-  - **A** - Differentiator: you are thought leaders and/or innovators in source
-  code strategy
+  - **A** - Differentiator: you are thought leaders or innovators in source
+  code strategy or technologies to implement the strategy
+  
+  - **Note** - Scores higher than C also show evidence of influence beyond the
+  group under assessment
 
-  - Scores higher than C also show evidence of influence beyond the group under assessment
+- Suggestions for improvement
 
-**What is covered by the assessment?**
+- Follow-up on specific topics (optional)
 
-- Inventory & Observability
+## Assessment Topics
+
+- Inventory
+
 - Consumption
+
 - Contribution
+
 - Ecosystems
 
-**What do we mean by "group"?**
+## Glossary
 
-The group being assessed. Typically a business but could be any grouping.
+- **Your/The Group** - the group being assessed
 
-## Inventory & Observability - Example Questions
+- **Product** - product, solution or service
 
-- Where is all the source code (created/changed by people in the group)?
+## Inventory - Sample Questions
 
-- How "accessible" is it en mass? How do you know how accessible it is?
-How do you know what not visible (accidentally or intentionally)?
-Do all people assessed have awareness or access to all source created/changed
-by anyone in the group?
+- How would you find all source code touched by people in your group?
 
-- What value do you leverage from observability of all code
-(e.g., bulk comparisons and analytics bringing new insights)?
+- How do you know nothing is missing from your inventory?
 
-- What code do you depend on that is not created/changed by the group's people?
-Can you see it? What value can you get from seeing it?
+- How do you support intentionally private source code?
 
-- How do you measure alignment with wider external initiatives or requirements?
-For example coming from the group of groups - voluntary or mandatory.
+- How would you find source code by domain, technology or other categories?
 
-- How do you visualize the multiple potentially many-to-many relationships
-between source code, projects, repositories, products, services and solutions?
-How expensive (time or cost) is it to find this out?
-How do I optimize those relationships for added value or reduced cost?
+- How do you use the above identified information?
 
-- How easy is it to discover a topic of interest in my source code
-(e.g., from domain, from tech stack, from requirement)?
+- How do you map relationships between projects, repositories, products,
+solutions, components, sub-systems, people, authors, teams, external repositories?
 
-### Inventory & Observability - Example Score Indications
+- How do you optimize the above identified relationships?
 
-- **D** - some people can access some of the code some of the time.
-No full inventory. Ad hoc discoverability.
+- What bulk measures or actions do you make across all source code?
 
-- **C** - policy on source inventory and some minimum required source code
-tagging with meta data (or other technique) for easier find. Exploits some
-group-level observability
-(e.g., de-duplication, tech stack analysis and harmonization)
+- How do you know which code do you depend on that is not touched by
+people in your group?
 
-- **B** - ambitious policy on source inventory and discoverability,
-good observability of relationships between source and non-source groupings
-visualizations of developer footprint spread, repository tech harmonization,
-evidence of continuous improvement of data collected and exploited
+- How much of external code can you see or contribute to?
+
+- How do you measure source code alignment with external initiatives or requirements?
+
+- How easy is it to discover a topic of interest in your source code. For example,
+by domain, tech stack or functionality)?
+
+### Inventory - Sample Scoring
+
+- **D** - With some effort it is possible to get a partially complete
+inventory source code and ad hoc discoverability techniques.
+
+- **C** - It is not very difficult to get a mostly complete inventory and there
+is some value added used of this inventory. There are some defined discovery
+techniques implemented. The is a basic map of basic source code relationships.
+
+- **B** - There is a partially automated method to produce an inventory with a very
+low probability that anything is missing. There is a good map of source code
+relationships and some useful discovery options backed by metadata or automated.
+You have multiple examples of value added use of inventory to optimize, harmonize,
+bulk analyse, bulk process or align with external initiatives.
 
 - **A** - observability and discoverability is nearly fully automatic and
 self-policing, other innovative techniques in measuring, connecting and
-exploiting value from inventory and observability
+exploiting value from inventory and relationship data.
 
-### Consumption - Example Questions
+### Consumption - Sample Questions
 
-- Do you know how many people inside or outside of the group either read
-or re-use source code that was created/changed by other people
-in the group?
+- Do you know how many people in your group are reading or
+reusing source code touched by the group?
 
-- Do you know the value that people are getting from reading or re-using source
-code that they did not create? How do you measure and maximize that value?
+- Do you know how many people in your group are reading or
+reusing source code external to the group?
 
-- How do you optimize re-use towards black-box level (binary, service, etc.)
-while also leveraging source level access?
+- Do you know what value people are getting from reading or re-using source
+code?
 
-- How do you encourage consumption
-(especially consumption that I identify as most valuable)?
+- How do you maximize the value identified above?
+
+- How do you measure and optimize black-box versus single-source vs
+duplicate-source re-use strategies?
+
+- How do you encourage consumption, especially consumption that you identify
+as most valuable?
 
 - How do you avoid duplication style re-use? Do you know how much of this type
 of re-use you have?
 
-- How well do we consume source code that aligns with corporate initiatives
-and enterprise architecture direction?
+- How do you measure consumption related to external initiatives or requirements?
+
+- How does your and external inventory strategies affect your re-use results?
 
 ### Consumption - Example Scores
 

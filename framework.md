@@ -58,50 +58,47 @@ Opportunities might be any combination of short-term, medium-term, long-term.
 
 #### What sort of questions will we ask?
 
-    - Where is all the source code (created/changed by people in my business)?
-    
-    - How "accessible" is it en mass? How do I know how accessible it is? How do I know what is hidden (accidentally or intentionally)? Do all people in my business have access to all source created/changed by anyone in the GUA?
+- Where is all the source code (created/changed by people in my business)?
 
-    - What value do I leverage from observability of all code (e.g., bulk comparisons)?
+- How "accessible" is it en mass? How do I know how accessible it is? How do I know what is hidden (accidentally or intentionally)? Do all people in my business have access to all source created/changed by anyone in the GUA?
 
-    - What code do I depend on that is not created/changed by my people? Can I see it? What value can I get from seeing it?
+- What value do I leverage from observability of all code (e.g., bulk comparisons)?
 
-    - How do I measure alignment with wider corporate initatives or requirements?
+- What code do I depend on that is not created/changed by my people? Can I see it? What value can I get from seeing it?
 
-    - How do I visualize the multiple potentially many-to-many relationships between source code, projects, repositories, products, services and solutions? How expensive is it for someone to find this out? How do I optimize those relationships for added value or reduced cost?
+- How do I measure alignment with wider corporate initatives or requirements?
 
-    - How easy is it to discover a topic of interest in my source code (e.g., from domain, from tech stack, from requirement)
+- How do I visualize the multiple potentially many-to-many relationships between source code, projects, repositories, products, services and solutions? How expensive is it for someone to find this out? How do I optimize those relationships for added value or reduced cost?
+
+- How easy is it to discover a topic of interest in my source code (e.g., from domain, from tech stack, from requirement)
 
 #### What might each score look like in this category?
 
-        - Example D - some people can access some of the code some of the time. No full inventory. Ad hoc discoverability.
-        - Example C - policy wiki on where is source and minimal source code tagging with meta data for easier find. Exploits some group observability (e.g., de-duplication, tech stack analysis and harmonization)
-        - Example B - advanced polcy examples include... visualization of developer footprint spread... repository tech harmonization
-        - Example A - observability is automatic from when developer starts typing... self-policing 
+- Example D - some people can access some of the code some of the time. No full inventory. Ad hoc discoverability.
+- Example C - policy wiki on where is source and minimal source code tagging with meta data for easier find. Exploits some group observability (e.g., de-duplication, tech stack analysis and harmonization)
+- Example B - advanced polcy examples include... visualization of developer footprint spread... repository tech harmonization
+- Example A - observability is automatic from when developer starts typing... self-policing 
+
+### Consumption
+
+- Do I know how many people inside or outside of my business either read or re-use source code that was created/changed by people in my business?
+
+- Do I know the value that people are getting from reading or re-using this srouce code?
+
+- How much do we read or re-use code that was not created by people in our business? How do we maximize value from that type of consumption?
+
+- How do I encourage consumption (especially consumption that I identify as most valuable)?
+
+- How well do we consume source code that aligns with corporate initiatives and enterprise architecture direction?
+
+### Contribution
 
 
 
-- Consumption
+### Eco-Systems (community, communications, publicity, contributor-experience)
 
-    - Do I know how many people inside or outside of my business either read or re-use source code that was created/changed by people in my business?
+- Exploit all of the above for your business value?
 
-    - Do I know the value that people are getting from reading or re-using this srouce code?
+- Are you leveraging research ecosystems via source-level SDKs?
 
-    - How much do we read or re-use code that was not created by people in our business? How do we maximize value from that type of consumption?
-
-    - How do I encourage consumption (especially consumption that I identify as most valuable)?
-
-    - How well do we consume source code that aligns with corporate initiatives and enterprise architecture direction?
-
-- Contribution
-
-
-- Eco-Systems (community, communications, publicity, contributor-experience)
-
-    - Exploit all of the above for your business value?
-
-    - Are you leveraging research ecosystems via source-level SDKs?
-    
-    - How are you creating developer pull for charged SDKs?
-
-    
+- How are you creating developer pull for charged SDKs?

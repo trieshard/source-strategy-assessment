@@ -36,9 +36,9 @@ Any "codified" knowledge related to...
 
 **Who can be assessed?**
 
-- Groups from 2 people to thousands under the same criteria
+- Groups from 2 people to thousands can use this framework
 
-- Assessment value is best with a cohesive group such as a business and
+- Assessment value is best with a cohesive group, such as a business, and
 involving more than 20 people
 
 - Assessment value increases if the assessed group is (or aspires to be)

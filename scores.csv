@@ -1,0 +1,8 @@
+Score,Level,Description
+A,Differentiator,"Innovative policy and supporting data techniques. Frequent data-driven policy adaptions. Innovative tooling & configurations. Near 100% (of intended scope subset) products/requirements/codebase. Extensive internal and external voice. ""Thought Leader"""
+B,Advanced,"Ambitious policy and detailed and trended supporting data. Occasional data-driven policy adaptions. Generalist and specialist tools and custom tools and/or custom configurations and continuous modernization. (guide) > 80% (of intended scope subset)products/requirements/codebase. Share across BG and with other BGs. Some external voice."
+C,Standard,"Basic policy with basic supporting data. Tool choice & configurations support policy and some modernization activity. (guide) > 60% (of intended scope subset) of products/requirements/code. Local training, coaching and advocacy"
+D,Initial,"Ad hoc or lenient with minimal supporting data. Basic tools in standard configurations. Small subset of products/requirements/codebase. Some local advocacy"
+E,Awareness,"Awareness about the paricular practice exists but not even ad hoc action are taken as part of usual ways of working."
+F,Unawareness,"Lack of awareness and basic understanding of a given practice"
+unknown,Not yet defined,"Scores have not been defined yet"

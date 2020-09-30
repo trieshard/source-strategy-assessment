@@ -1,23 +1,31 @@
-# source-strategy-assessment
+# Source Code Strategy Assessment Framework
 
-Emerging measurement framework for maturity of source code strategy in large groups owning multiple repositories and products/services
+**Why invest time to assess your source code strategy?**
 
-## What do we mean by source code
+You will discover if you already have, or could have, source code strategies that exploit opportunities to...
+
+- Increase business & customer value
+- Reduce costs
+- Increase quality
+- Increase employee satisfaction
+- Transform culture from silos to collaboration
+
+Opportunities might be any combination of short-term, medium-term, long-term.
+
+**What do we mean by source code?**
 
 Any "codified" knowledge related to...
 
-- A product, solution, publication or service
-- The full life-cycle of that product, solution or service
+- Products, solutions, publications or services
+- The full life-cycle of the above
+- **Examples**
+  - Production application or service source code and configuration
+  - Test automation source code and configuration
+  - Product or service documentation (including for dev, ops or users)
+  - Infrastructure, build, deployment and monitoring code and configuration
 
-### Examples
+**Who can be assessed?**
 
-- Production application or service source code and configuration
-- Test automation source code and configuration
-- Product or service documentation (including for dev, ops or users)
-- Infrastructure, build, deployment and monitoring code and configuration
-
-## Why assess your source code strategy
-
-To discover if you already have, or could have, source code strategies that exploit opportunities to increase business & customer value and/or reduce costs, increase employee satisfaction and help the whole organization to collaborate across silos.
-
-Opportunities might be any combination of short-term, medium-term, long-term.
+- Groups from 2 people to thousands under the same criteria
+- Assessment value is best with a cohesive group such as a business and involving more than 20 people
+- Assessment value increases if the assessed group is (or aspires to be) part of a larger organization of groups and external eco-systems

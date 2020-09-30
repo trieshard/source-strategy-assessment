@@ -2,7 +2,7 @@
 
 ## Assessment Outputs
 
-- A "score" for your source code strategy
+- Source code strategy score
 
   - **E** Awareness: you know about source code strategies but do not have one yet
 
@@ -70,7 +70,7 @@ people in your group?
 - How easy is it to discover a topic of interest in your source code. For example,
 by domain, tech stack or functionality)?
 
-### Inventory - Sample Scoring
+## Inventory - Sample Scoring
 
 - **D** - With some effort you can get a partially complete
 inventory source code and you have ad hoc discoverability techniques.
@@ -89,12 +89,12 @@ bulk analyze, bulk process or align with external initiatives.
 self-policing, other innovative techniques in measuring, connecting and
 exploiting value from inventory and relationship data.
 
-### Consumption - Sample Questions
+## Consumption - Sample Questions
 
-- Do you know the number of people in your group are reading or
+- Do you know the number of people in your group who are reading or
 reusing source code touched by the group?
 
-- Do you know the number of people in your group are reading or
+- Do you know the number of people in your group who are reading or
 reusing source code external to the group?
 
 - Do you know what value people are getting from reading or re-using source
@@ -112,15 +112,31 @@ of re-use you have?
 
 - How do you measure consumption related to external initiatives or requirements?
 
-- How does your and external inventory strategies affect your re-use results?
+- How do your internal and external inventory strategies affect your re-use results?
 
-### Consumption - Example Scores
+## Consumption - Sample Scores
 
-### Contribution - Example Questions
+- **D** - You can show examples of ad hoc measurement of consumption and
+actions to encourage consumption
 
-### Contribution - Example Scores
+- **C** - You have a defined basic policy for the measurement and encouragement
+of consumption. You can show data that indicates consistent application of the
+policy. Reading internal and external source is common. You have had ad hoc
+success in encouraging the re-use that you value.
 
-### Ecosystems - Example Questions
+- **B** - Reuse is common in your group and at binary or service level
+wherever possible. Reuse of source avoids duplication. You have data about
+reading and reuse and examples of how you use this to add value and adapt your
+strategy.
+
+- **A** - Consumption of own group's and other group's code is a cultural norm in
+your group. You have innovative techniques to measure and promote consumption.
+
+## Contribution - Sample Questions
+
+## Contribution - Sample Scores
+
+## Ecosystems - Sample Questions
 
 - What are your strategies for community, communications, publicity and contributor-experience?
 
@@ -130,4 +146,4 @@ of re-use you have?
 
 - How are you measuring the "developer experience" of your source sharing or SDKs?
 
-### Ecosystems - Example Scores
+### Ecosystems - Sample Scores

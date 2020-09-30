@@ -15,8 +15,8 @@
   - **B** - Advanced: you have an ambitious strategy, evidence of its
   implementation and continuous improvement
 
-  - **A** - Differentiator: you are thought leaders or innovators in source
-  code strategy or technologies to implement the strategy
+  - **A** - Differentiator: you are innovators or thought-leaders in source
+  code strategy and supporting tools & techniques
   
   - **Note** - Scores higher than C also show evidence of influence beyond the
   group under assessment
@@ -37,7 +37,7 @@
 
 ## Glossary
 
-- **Your/The Group** - the group being assessed
+- **Your/The Group** - the assessee group
 
 - **Product** - product, solution or service
 
@@ -72,18 +72,18 @@ by domain, tech stack or functionality)?
 
 ### Inventory - Sample Scoring
 
-- **D** - With some effort it is possible to get a partially complete
-inventory source code and ad hoc discoverability techniques.
+- **D** - With some effort you can get a partially complete
+inventory source code and you have ad hoc discoverability techniques.
 
-- **C** - It is not very difficult to get a mostly complete inventory and there
-is some value added used of this inventory. There are some defined discovery
-techniques implemented. The is a basic map of basic source code relationships.
+- **C** - Producing and managing a near complete inventory is possible.
+You have examples of value added use of the inventory. You have implemented some
+discovery techniques. You can produce a basic map of basic source code relationships.
 
-- **B** - There is a partially automated method to produce an inventory with a very
-low probability that anything is missing. There is a good map of source code
-relationships and some useful discovery options backed by metadata or automated.
-You have multiple examples of value added use of inventory to optimize, harmonize,
-bulk analyse, bulk process or align with external initiatives.
+- **B** - You have automated techniques to produce an inventory with a
+low probability that anything is missing. You can show a versatile map of source
+code relationships and useful discovery options backed by metadata or automated.
+You have consistent examples of value added use of inventory to optimize, harmonize,
+bulk analyze, bulk process or align with external initiatives.
 
 - **A** - observability and discoverability is nearly fully automatic and
 self-policing, other innovative techniques in measuring, connecting and
@@ -91,10 +91,10 @@ exploiting value from inventory and relationship data.
 
 ### Consumption - Sample Questions
 
-- Do you know how many people in your group are reading or
+- Do you know the number of people in your group are reading or
 reusing source code touched by the group?
 
-- Do you know how many people in your group are reading or
+- Do you know the number of people in your group are reading or
 reusing source code external to the group?
 
 - Do you know what value people are getting from reading or re-using source
@@ -105,8 +105,7 @@ code?
 - How do you measure and optimize black-box versus single-source vs
 duplicate-source re-use strategies?
 
-- How do you encourage consumption, especially consumption that you identify
-as most valuable?
+- How do you encourage consumption that you identify as valuable?
 
 - How do you avoid duplication style re-use? Do you know how much of this type
 of re-use you have?
@@ -123,12 +122,12 @@ of re-use you have?
 
 ### Ecosystems - Example Questions
 
-- Includes community, communications, publicity, contributor-experience
+- What are your strategies for community, communications, publicity and contributor-experience?
 
-- Exploit all of the above for your business value?
+- How do you discover commercial opportunities for your source code?
 
-- Are you leveraging research ecosystems via source-level SDKs?
+- How do you measure the success of the ecosystems that you want to develop?
 
-- How are you creating developer pull for charged SDKs?
+- How are you measuring the "developer experience" of your source sharing or SDKs?
 
 ### Ecosystems - Example Scores

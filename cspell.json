@@ -1,6 +1,8 @@
 {
     "ignoreWords": [
         "assessee",
-        "discoverability"
+        "assessees",
+        "discoverability",
+        "SDKs"
     ]
 }

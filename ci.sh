@@ -1,7 +1,8 @@
-#!/bin/bash
+#!/bin/sh
 set -e
-npm --global install shellcheck markdownlint-cli cspell write-good
+npm --local install shellcheck markdownlint-cli cspell write-good
+PATH="$(npm bin):$PATH"
 shellcheck ./*.sh
+cspell ./*.md
 markdownlint ./*.md
-cspell ./*.md ./*.sh
 write-good ./*.md

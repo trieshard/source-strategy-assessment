@@ -1,5 +1,7 @@
 # Source Code Strategy Assessment Framework
 
+![ci](https://github.com/trieshard/source-strategy-assessment/workflows/ci/badge.svg)
+
 ## The Value of This Assessment
 
 The assessment helps you to discover and exploit opportunities to...

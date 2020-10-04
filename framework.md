@@ -1,31 +1,93 @@
 # Source Code Strategy Assessment Framework
 
-## Assessment Outputs
+## Terms
 
-- Source code strategy score
+- **Your/The Group** - the assessee group (including the group(s) that they represent)
 
-  - **E** Awareness: you know about source code strategies but do not have one yet
+- **Product** - product, solution or service
 
-  - **D** - Initial: you take some ad hoc actions to exploit opportunities or
-  limit weaknesses
+## Scoring
 
-  - **C** - Standard: you have a defined basic strategy and evidence of its
-  consistent implementation
+Assessors and assessees will consider the discussion, questions
+and answers in this framework to determine a score together.
 
-  - **B** - Advanced: you have an ambitious strategy, evidence of its
-  implementation and continuous improvement
+Typical indicators for scores are below. Actual scores depend on the
+assessees' business and technical context.
 
-  - **A** - Differentiator: you are innovators or thought-leaders in source
-  code strategy and supporting tools & techniques
-  
-  - **Note** - Scores higher than C also show evidence of influence beyond the
-  group under assessment
+Each score assumes you already have the indicators of all scores below it.
 
-- Suggestions for improvement
+### D (Initial)
 
-- Follow-up on specific topics (optional)
+- You can identify where most of your source is with some time and effort
+
+- You have ad hoc examples of people, other than the originators,
+who have read, re-used or contributed to source inside and outside of the
+assessed group.
+
+### C (Standard)
+
+- With minimal effort, fully or semi-automated, you can retrieve a near complete
+inventory of any source code touched by anyone in your group.
+
+- You have basic defined written and/or automated strategies for inventory,
+consumption, contribution and ecosystems building.
+
+- You have examples of value gained from the bulk view of your source. For
+example, static, change-history or social analyses across code bases
+providing actionable insights.
+
+- People commonly discover, read, learn from and/or reuse source
+code (or artifacts built from it) that they were not involved much in creating.
+This includes examples from within the assessee group and outside.
+
+- You have attempted to publicize your source code and the contributions that
+you make to other source code.
+
+### B (Advanced)
+
+- You have near fully automated techniques for inventorizing all source
+touched by anyone in the assessee group. There is a low probability that
+anything is missing.
+
+- You have ambitious defined written and/or automated strategies for inventory,
+consumption, contribution and ecosystems building.
+
+- You have examples of value gained from the bulk view of your source. For
+example, static, change-history or social analyses across code bases
+providing actionable insights.
+
+- People's default behavior, before and when they create source code, is to
+discover, read, learn from and/or reuse source code (or artifacts built from it)
+that they were not involved much in creating. This includes examples from within
+the assessee group and outside.
+
+- You have a good strategy to publicize source code created by or touched by your
+people and to build ecosystems of people, code-bases and other stakeholders.
+
+- You have data, visualizations and rationales for different types of value
+that your strategy has brought (for example considering people, business,
+customer, technical, quality, productivity, predictability)
+
+- You can show that you make regular improvements to your strategy and link
+these to the results of those improvements.
+
+### A - Differentiator
+
+- Others inside and outside of your assessee group regard you as influencers
+and experts in source code strategy.
+
+- You have developed innovative techniques for measurement, automation, commercializing,
+publicizing and ecosystem building.
+
+- Your source strategy and its results are a differentiator for your business.
+
+### General Note
+
+Scores higher than C also show evidence of influence beyond the group under assessment
 
 ## Assessment Topics
+
+This assessment splits into four main, somewhat overlapping, areas:
 
 - Inventory
 
@@ -34,12 +96,6 @@
 - Contribution
 
 - Ecosystems
-
-## Glossary
-
-- **Your/The Group** - the assessee group
-
-- **Product** - product, solution or service
 
 ## Inventory - Sample Questions
 
@@ -70,25 +126,6 @@ people in your group?
 - How easy is it to discover a topic of interest in your source code. For example,
 by domain, tech stack or functionality)?
 
-## Inventory - Sample Scoring
-
-- **D** - With some effort you can get a partially complete
-inventory source code and you have ad hoc discoverability techniques.
-
-- **C** - Producing and managing a near complete inventory is possible.
-You have examples of value added use of the inventory. You have implemented some
-discovery techniques. You can produce a basic map of basic source code relationships.
-
-- **B** - You have automated techniques to produce an inventory with a
-low probability that anything is missing. You can show a versatile map of source
-code relationships and useful discovery options backed by metadata or automated.
-You have consistent examples of value added use of inventory to optimize, harmonize,
-bulk analyze, bulk process or align with external initiatives.
-
-- **A** - observability and discoverability is nearly fully automatic and
-self-policing, other innovative techniques in measuring, connecting and
-exploiting value from inventory and relationship data.
-
 ## Consumption - Sample Questions
 
 - Do you know the number of people in your group who are reading or
@@ -114,27 +151,7 @@ of re-use you have?
 
 - How do your internal and external inventory strategies affect your re-use results?
 
-## Consumption - Sample Scores
-
-- **D** - You can show examples of ad hoc measurement of consumption and
-actions to encourage consumption
-
-- **C** - You have a defined basic policy for the measurement and encouragement
-of consumption. You can show data that indicates consistent application of the
-policy. Reading internal and external source is common. You have had ad hoc
-success in encouraging the re-use that you value.
-
-- **B** - Reuse is common in your group and at binary or service level
-wherever possible. Reuse of source avoids duplication. You have data about
-reading and reuse and examples of how you use this to add value and adapt your
-strategy.
-
-- **A** - Consumption of own group's and other group's code is a cultural norm in
-your group. You have innovative techniques to measure and promote consumption.
-
 ## Contribution - Sample Questions
-
-## Contribution - Sample Scores
 
 ## Ecosystems - Sample Questions
 
@@ -145,5 +162,3 @@ your group. You have innovative techniques to measure and promote consumption.
 - How do you measure the success of the ecosystems that you want to develop?
 
 - How are you measuring the "developer experience" of your source sharing or SDKs?
-
-### Ecosystems - Sample Scores

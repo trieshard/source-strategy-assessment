@@ -67,7 +67,7 @@ has any level of sharing.
 
   - Manage/retire dead APIs/source using the maps.
 
- Consumption - Sample Questions
+## Consumption - Sample Questions
 
 - Do you know the number of people in your group who are reading or
 reusing source code touched by the group?
@@ -93,6 +93,20 @@ of re-use you have?
 - How do your internal and external inventory strategies affect your re-use results?
 
 ## Contribution - Sample Questions
+
+- Do you know the number of external contributions to source code owned by
+**your group**?
+
+- Do you know the number of contributions from **your group** to external
+source code?
+
+- How do you measure the value of above contributions?
+
+- How do you encourage contributions that you identify as valuable?
+
+- Do you have a default contribution policy (e.g., written guidelines,
+support mechanisms, acceptance criteria, quality gates) for source code
+owned by **your group**?
 
 ## Ecosystems - Sample Questions
 
